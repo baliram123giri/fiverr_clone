@@ -1,0 +1,12 @@
+.a_business h1{
+    line-height:60px;
+}
+.a_business ul li{
+    list-style:disc;
+}
+.a_busines_bottom img{
+min-height: 350px;
+object-fit:cover;
+object-position:50%;
+width: 100%;
+}

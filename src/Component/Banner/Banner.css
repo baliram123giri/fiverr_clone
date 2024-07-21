@@ -1,0 +1,47 @@
+.a_banner{
+    height:470px;
+    width: 100%;
+    background-image:url("/public/banner/hero-xl (1).webp");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:20px;
+}
+.a_banner input{
+    /* padding:17px; */
+    width: 100%;
+    border-radius: 10px;
+    height:100%;
+}
+ .a_input_fild{
+    width: 100%;
+    background-color:#fff;
+    height:60px;
+    align-items: center;
+    border-radius: 10px;
+ }
+ .a_input_fild .a_search{
+    height: 48px;
+    width: 48px;
+    background-color: #19a463;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+ }
+ .a_input_fild .a_search:hover{
+    background-color: #126f43;
+ }
+ 
+ /* banner bottom part */
+ .a_banner_box{
+    background-color:#FFFFFF!important;
+    height: 129px;
+        width: 129px;
+        border-radius: 16px;
+        border: 1px solid #fff;
+        box-shadow: 0 0 .880517px rgba(0, 0, 0, .029), 0 0 2.29197px rgba(0, 0, 0, .03), 0 0 5.52px rgba(0, 0, 0, .054), 0 0 11px rgba(0, 0, 0, .09);
+
+ }
+ .a_banner_box:hover{
+        background: radial-gradient(63.44% 63.44% at 50% 50%, #c2ffe2 0, #fff 100%), #fff;
+ }

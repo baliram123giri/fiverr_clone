@@ -1,0 +1,16 @@
+.a_services h5{
+    line-height: 1.7;
+    
+}
+.a_services{
+    min-height: 261px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.react-multiple-carousel__arrow--left {
+    left: calc(4% - 51px);
+}
+.react-multiple-carousel__arrow--right {
+    right: calc(4% - 51px);
+}

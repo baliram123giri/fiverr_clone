@@ -1,0 +1,58 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  color: inherit !important;
+}
+input:focus{
+outline: none;
+}
+body{
+  
+  font: 400 16px / 24px Macan, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant-caps: normal;
+    font-variant-ligatures: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-variant-alternates: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-variant-position: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Macan, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+button{
+  cursor: pointer;
+}
+.a_300{
+  font-weight: 300;
+}
+.a_400{
+  font-weight: 400;
+}
+.a_500{
+  font-weight: 500;
+}
+.a_600{
+  font-weight: 600;
+}
+.a_700{
+  font-weight: 700;
+}
+.a_800{
+  font-weight: 800;
+}
+.a_900{
+  font-weight: 900;
+}

@@ -1,0 +1,22 @@
+.a_header{
+    border-bottom: 1px solid rgba(74, 71, 71, 0.196);
+}
+ul  .a_english:hover{
+color: #1dbf73 !important;
+}
+.a_header .a_header_btn{
+    border: 1px solid #1dbf73 !important;
+    transition: 0.2s;
+}
+.a_header .a_header_buttons{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 7px 13px;
+    color: #222325 !important;
+
+}
+.a_header  .a_header_buttons:hover{
+   background-color: #f5f5f5;
+   border-radius:6px;
+}
