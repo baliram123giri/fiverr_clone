@@ -7,9 +7,11 @@ import Home from './Home';
 function App() {
   return (
     <div>
+      <h1>fiverr clone</h1>
       <Header />
       <Home />
       <Footer />
+     
     </div>
   );
 }
