@@ -4,4 +4,4 @@ services :
   web :
      image : baliram123giri/fiverr_clone:latest
      ports : 
-         - "5000:3000"
+         - "3000:3000"
